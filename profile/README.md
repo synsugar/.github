@@ -1,10 +1,11 @@
-## Hi there 👋
+# synsugar.ai
+We are a German AI startup. We build AI-powered apps like our own [synsugar AI Suite](https://www.synsugar.ai/).
 
-**Here are some ideas to get you started:**
+## Technologies
+We work with a lot of the latest and greatest tools
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+* IDEs: Cursor, VS Code and IntelliJ
+* Languages: TypeScript and Python
+* Stack: React, Next.js, Shadcn and TailwindCSS
+* CI/CD: GitHub + GitHub Actions
+* Hosting: on Vercel, Azure, AWS and Google Cloud
