@@ -1,4 +1,6 @@
-# synsugar.ai
+![synsugar AI team](/profile/imgs/synsugar-team.jpg)
+
+# synsugar AI
 We are a German AI startup. We build AI-powered apps like our own [synsugar AI Suite](https://www.synsugar.ai/).
 
 ## Technologies
