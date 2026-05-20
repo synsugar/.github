@@ -25,13 +25,21 @@ We work with a lot of the latest and greatest tools
 </p>
 
 <p>
+  <a href="https://supabase.com/"><img src="/profile/imgs/Supabase.png" alt="Supabase" title="Supabase" width="64"></a>
+  <a href="https://neon.com/"><img src="/profile/imgs/Neon.png" alt="Neon" title="Neon" width="64"></a>
+  <a href="https://upstash.com/"><img src="/profile/imgs/Upstash.png" alt="Upstash" title="Upstash" width="64"></a>
+  <a href="https://workflow-sdk.dev/"><img src="/profile/imgs/Workflows.png" alt="Workflow SDK" title="Workflow SDK" width="64"></a>
+  <a href="https://www.meilisearch.com/"><img src="/profile/imgs/Meilisearch.png" alt="Meilisearch" title="Meilisearch" width="64"></a>
+  <a href="https://sentry.io/"><img src="/profile/imgs/Sentry.png" alt="Sentry" title="Sentry" width="64"></a>
+</p>
+
+<p>
   <a href="https://vercel.com/"><img src="/profile/imgs/Vercel.png" alt="Vercel" title="Vercel" width="64"></a>
   <a href="https://azure.com/"><img src="/profile/imgs/Azure.png" alt="Azure" title="Azure" width="64"></a>
   <a href="https://cloud.google.com/"><img src="/profile/imgs/GoogleCloud.png" alt="Google Cloud" title="Google Cloud" width="64"></a>
   <a href="https://aws.com/"><img src="/profile/imgs/AWS.png" alt="AWS" title="AWS" width="64"></a>
   <a href="https://mistral.ai/"><img src="/profile/imgs/Mistral.png" alt="Mistral" title="Mistral" width="64"></a>
   <a href="https://claude.ai//"><img src="/profile/imgs/Claude.png" alt="Claude" title="Claude" width="64"></a>
-  <a href="https://sentry.io/"><img src="/profile/imgs/Sentry.png" alt="Sentry" title="Sentry" width="64"></a>
 </p>
 
 ## We are hiring!
