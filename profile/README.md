@@ -12,14 +12,16 @@ We work with a lot of the latest and greatest tools
   <a href="https://www.typescriptlang.org/"><img src="/profile/imgs/TypeScript.png" alt="TypeScipt" title="TypeScipt" width="64"></a>
   <a href="https://nodejs.org/"><img src="/profile/imgs/Node.png" alt="Node" title="Node" width="64"></a>
   <a href="https://www.python.org/"><img src="/profile/imgs/Python.png" alt="Python" title="Python" width="64"></a>
+  <a href="https://www.linear.app/"><img src="/profile/imgs/Linear.png" alt="Linear" title="Linear" width="64"></a>
 </p>
 
 <p>
   <a href="https://github.com/"><img src="/profile/imgs/GitHub.png" alt="GitHub" title="GitHub" width="64"></a>
   <a href="https://nextjs.org/"><img src="/profile/imgs/Next.png" alt="Next.js" title="Next.js" width="64"></a>
   <a href="https://ui.shadcn.com/"><img src="/profile/imgs/Shadcnui.png" alt="Shadcn UI" title="Shadcn UI" width="64"></a>
-  <a href="https://tailwindcss.com/"><img src="/profile/imgs/Tailwind.png" alt="Tailwindcss" title="Tailwindcss" width="64"></a>
+  <a href="https://ai-sdk.dev/"><img src="/profile/imgs/AI SDK.png" alt="AI SDK" title="AI SDK" width="64"></a>
   <a href="https://react.dev/"><img src="/profile/imgs/React.png" alt="React" title="React" width="64"></a>
+  <a href="https://tailwindcss.com/"><img src="/profile/imgs/Tailwind.png" alt="Tailwindcss" title="Tailwindcss" width="64"></a>
 </p>
 
 <p>
@@ -27,6 +29,8 @@ We work with a lot of the latest and greatest tools
   <a href="https://azure.com/"><img src="/profile/imgs/Azure.png" alt="Azure" title="Azure" width="64"></a>
   <a href="https://cloud.google.com/"><img src="/profile/imgs/GoogleCloud.png" alt="Google Cloud" title="Google Cloud" width="64"></a>
   <a href="https://aws.com/"><img src="/profile/imgs/AWS.png" alt="AWS" title="AWS" width="64"></a>
+  <a href="https://mistral.ai/"><img src="/profile/imgs/Mistral.png" alt="Mistral" title="Mistral" width="64"></a>
+  <a href="https://claude.ai//"><img src="/profile/imgs/Claude.png" alt="Claude" title="Claude" width="64"></a>
   <a href="https://sentry.io/"><img src="/profile/imgs/Sentry.png" alt="Sentry" title="Sentry" width="64"></a>
 </p>
 
